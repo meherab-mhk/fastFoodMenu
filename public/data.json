@@ -1,0 +1,171 @@
+{
+  "menu": {
+    "burgers": [
+      {
+        "name": "Classic Cheeseburger",
+        "price": 8,
+        "ingredients": [
+          "beef patty",
+          "cheddar cheese",
+          "lettuce",
+          "tomato",
+          "onion",
+          "pickle",
+          "bun",
+          "ketchup",
+          "mustard"
+        ]
+      },
+      {
+        "name": "Bacon BBQ Burger",
+        "price": 10,
+        "ingredients": [
+          "beef patty",
+          "bacon",
+          "BBQ sauce",
+          "cheddar cheese",
+          "onion rings",
+          "lettuce",
+          "bun"
+        ]
+      },
+      {
+        "name": "Veggie Burger",
+        "price": 7,
+        "ingredients": [
+          "veggie patty",
+          "lettuce",
+          "tomato",
+          "onion",
+          "avocado",
+          "whole wheat bun",
+          "vegan mayo"
+        ]
+      }
+    ],
+    "tacos": [
+      {
+        "name": "Chicken Tacos",
+        "price": 6,
+        "ingredients": [
+          "grilled chicken",
+          "lettuce",
+          "cheddar cheese",
+          "sour cream",
+          "salsa",
+          "corn tortillas"
+        ]
+      },
+      {
+        "name": "Beef Tacos",
+        "price": 7,
+        "ingredients": [
+          "ground beef",
+          "tomato",
+          "lettuce",
+          "cheddar cheese",
+          "sour cream",
+          "flour tortillas"
+        ]
+      },
+      {
+        "name": "Fish Tacos",
+        "price": 8,
+        "ingredients": [
+          "grilled fish",
+          "cabbage slaw",
+          "cilantro",
+          "lime",
+          "avocado",
+          "corn tortillas",
+          "chipotle sauce"
+        ]
+      }
+    ],
+    "pizzas": [
+      {
+        "name": "Pepperoni Pizza",
+        "price": 12,
+        "ingredients": [
+          "pepperoni",
+          "mozzarella cheese",
+          "tomato sauce",
+          "pizza dough",
+          "oregano"
+        ]
+      },
+      {
+        "name": "Margherita Pizza",
+        "price": 11,
+        "ingredients": [
+          "mozzarella cheese",
+          "tomato sauce",
+          "basil",
+          "olive oil",
+          "pizza dough"
+        ]
+      },
+      {
+        "name": "BBQ Chicken Pizza",
+        "price": 13,
+        "ingredients": [
+          "grilled chicken",
+          "BBQ sauce",
+          "red onions",
+          "mozzarella cheese",
+          "cilantro",
+          "pizza dough"
+        ]
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Coca Cola",
+        "price": 6,
+        "ingredients": [
+          "carbonated water",
+          "sugar",
+          "caramel color",
+          "phosphoric acid",
+          "natural flavors",
+          "caffeine"
+        ]
+      },
+      {
+        "name": "Lemonade",
+        "price": 5,
+        "ingredients": ["water", "lemon juice", "sugar", "ice"]
+      },
+      {
+        "name": "Iced Tea",
+        "price": 7,
+        "ingredients": ["black tea", "sugar", "lemon", "ice"]
+      }
+    ],
+    "fries": [
+      {
+        "name": "Classic French Fries",
+        "price": 5,
+        "ingredients": ["potatoes", "salt", "vegetable oil"]
+      },
+      {
+        "name": "Sweet Potato Fries",
+        "price": 4,
+        "ingredients": ["sweet potatoes", "salt", "vegetable oil"]
+      },
+      {
+        "name": "Loaded Fries",
+        "price": 5,
+        "ingredients": [
+          "potatoes",
+          "bacon",
+          "cheddar cheese",
+          "sour cream",
+          "green onions",
+          "salt",
+          "vegetable oil"
+        ]
+      }
+    ]
+  }
+}
